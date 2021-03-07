@@ -1,8 +1,15 @@
-import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
+import React, { FC, memo } from 'react';
+import { BrowserRouter as Router } from 'react-router-dom';
+import { Provider } from 'react-redux';
+import { HeaderApp } from './core/components';
+import { Routing } from './core/routing/Routing';
+import { store } from './core/store';
 
-export const App: React.FC = () => (
-  <BrowserRouter>
-    <h1>{'HE'}</h1>
-  </BrowserRouter>
-);
+export const App: FC = memo(() => (
+        <Provider store={store}>
+            <Router>
+                <HeaderApp />
+                <Routing />
+            </Router>
+        </Provider>
+    ));

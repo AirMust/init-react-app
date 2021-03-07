@@ -1,0 +1,15 @@
+{
+	"i18_name": "Форсайт",
+	"i18_title": "Platform IoE",
+	"i18_main": "Главная",
+	"i18_calculator": "Калькулятор",
+	"i18_energy_pie": "Пироги",
+	"i18_analytics": "Аналитика",
+	"i18_energy_consumption": "Энергопотребление",
+	"i18_loads": "Нагрузки",
+	"i18_reliability": "Надежность",
+	"i18_processes": "Процессы",
+	"i18_cost": "Затраты",
+	"i18_microgrid": "Микрогрид",
+	"i18_configuration": "Конфигурация"
+}

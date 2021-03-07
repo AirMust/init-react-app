@@ -1,0 +1,15 @@
+{
+	"i18_name": "Foresight",
+	"i18_title": "Platform IoE",
+	"i18_main": "Main",
+	"i18_calculator": "Calculator",
+	"i18_energy_pie": "EnergyPie",
+	"i18_analytics": "Analytics",
+	"i18_energy_consumption": "Energy consumption",
+	"i18_loads": "Loads",
+	"i18_reliability": "Reliability",
+	"i18_processes": "Processes",
+	"i18_cost": "Cost",
+	"i18_microgrid": "Microgrid",
+	"i18_configuration": "Configuration"
+}
